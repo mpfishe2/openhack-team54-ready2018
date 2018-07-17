@@ -1,0 +1,6 @@
+gear_images/
+normalized_imgs/
+padded_images/
+test_images/
+*.pkl
+*.zip
