@@ -1,6 +1,6 @@
 .ipynb_checkpoints/
 gear_images/
-normalized_imgs/
+normalized_images/
 padded_images/
 test_images/
 knn_model.pkl
